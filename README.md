@@ -1,5 +1,5 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Madhusudan Mahatha </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/msmahatha/" target="_blank" rel="noreferrer">Madhusudan </a> is a passionate Developer from India, with 3+ years of experience in building new and interesting solutions. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/msmahatha/" target="_blank" rel="noreferrer">Madhusudan </a> is a passionate Developer from India, working on building new and interesting solutions for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coder GIF" />
 
@@ -7,7 +7,7 @@
 
 <h3 align="left"><font size="+2" face="Verdana">What I Do:</font></h3>
 - I focus on **Machine Learning**, **DevOps**, and crafting practical solutions for real-world problems.
-- I also have a strong passion for **Data Structures and Algorithms (DSA)**, always striving to optimize and improve.
+- I also have a strong passion for **Data Structures and Algorithms (DSA)**.
 
 ---
 
@@ -66,10 +66,6 @@
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
 </p>
 
----
-
-<h3 align="left"><font size="+2" face="Verdana">🚀 Currently Building:</font></h3>
-<p>Fetching latest project... This section will update automatically with details of my current work!</p>
 ---
 
 <h3 align="left"><font size="+2" face="Verdana">Let's Connect!</font></h3>
