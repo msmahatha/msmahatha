@@ -65,12 +65,3 @@
     <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
 </p>
-
----
-
-<h3 align="left"><font size="+2" face="Verdana">Let's Connect!</font></h3>
-<p align="left">
-    The best way to reach me is via email: <b><a href="mailto:madhusudanmahatha14@gmail.com">madhusudanmahatha14@gmail.com</a></b>
-</p>
-
----
