@@ -1,7 +1,10 @@
+<!-- Banner -->
+<p align="center">
+  <img src="Madhusudan Mahatha.png" alt="Madhusudan Mahatha Banner" width="100%" />
+</p
+
 <h1 align="center">Hi 👋, I'm Madhusudan Mahatha</h1>
 <h3 align="center">💻 Developer | ♟️ Chess Enthusiast | 🚀 Tech Explorer</h3>
-
----
 
 ### 🧑‍💻 About Me  
 ```python
