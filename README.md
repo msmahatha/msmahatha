@@ -1,10 +1,12 @@
 <!-- ============================================================ -->
 
-<!--                    MADHUSUDAN MAHATHA                        -->
+<!--                  MADHUSUDAN MAHATHA                          -->
 
-<!--              CHESS ENGINE DEVELOPER PROFILE                   -->
+<!--             UNIQUE GITHUB PROFILE README                     -->
 
 <!-- ============================================================ -->
+
+<!-- ========================= HERO ============================== -->
 
 <div align="center">
 
@@ -18,16 +20,37 @@
 
 <br>
 
-**I don't just write code.
-I think in systems.**
+<p>
+<strong>Think in systems. Build with purpose.</strong>
+</p>
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MODE-ALWAYS%20LEARNING-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASE-INDIA-111111?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/msmahatha">
+<img src="https://img.shields.io/badge/GitHub-msmahatha-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/msmahatha">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:madhusudanmahatha14@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/msmahatha">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
 
 </div>
+
+<br>
 
 ---
 
@@ -36,154 +59,240 @@ I think in systems.**
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   Every project starts with a position.                      ║
+║                 EVERY PROJECT STARTS                         ║
+║                    WITH A MOVE.                              ║
 ║                                                              ║
-║   Every problem has a pattern.                               ║
+║                 EVERY PROBLEM HAS                             ║
+║                     A PATTERN.                               ║
 ║                                                              ║
-║   Every solution begins with the first move.                 ║
+║                 EVERY SOLUTION                                ║
+║                 STARTS WITH THINKING.                        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-I'm **Madhusudan Mahatha**, a developer fascinated by the intersection of:
+I'm **Madhusudan Mahatha**, a developer interested in the intersection of:
 
 ```text
 SOFTWARE
    +
 ARTIFICIAL INTELLIGENCE
    +
-SYSTEMS
-   +
 AUTOMATION
+   +
+SYSTEMS
    +
 PRODUCTS
 ```
 
-I enjoy taking ideas from **zero → architecture → implementation → deployment**.
+I enjoy taking an idea from:
 
-My goal isn't to collect technologies.
+**Concept → Architecture → Code → Deployment → Real-world impact**
 
-**My goal is to become better at solving difficult problems.**
+I don't want to simply collect technologies.
+
+> **I want to become better at solving difficult problems.**
 
 ---
 
 # `02` · THE BOARD
 
 ```text
-                 ┌──────────────────────────┐
-                 │        MY BOARD          │
-                 └──────────────────────────┘
-
-                         ♟  AI / ML
-                              │
-                              │
-              ♜ Backend ──────┼────── Frontend ♞
-                              │
-                              │
-                       ♝ SYSTEM DESIGN
-                              │
-                              │
-                         ♛ AUTOMATION
-                              │
-                              │
+                         ♛ AI / ML
+                            │
+                            │
+              ♜ BACKEND ────┼──── FRONTEND ♞
+                            │
+                            │
+                     ♝ SYSTEM DESIGN
+                            │
+                            │
+                        ♟ AUTOMATION
+                            │
+                            │
                          ♚ PRODUCTS
 ```
 
 ### Current Position
 
-| Area                       | Position    |
-| -------------------------- | ----------- |
-| 🤖 Artificial Intelligence | `ACTIVE`    |
-| 🧠 Machine Learning        | `ACTIVE`    |
-| 🌐 Full-Stack Development  | `ACTIVE`    |
-| ⚙️ Backend Engineering     | `ACTIVE`    |
-| ☁️ Cloud / DevOps          | `EXPLORING` |
+| AREA                       |    STATUS   |
+| :------------------------- | :---------: |
+| 🤖 Artificial Intelligence |   `ACTIVE`  |
+| 🧠 Machine Learning        |   `ACTIVE`  |
+| 🌐 Full-Stack Development  |   `ACTIVE`  |
+| ⚙️ Backend Engineering     |   `ACTIVE`  |
+| ☁️ Cloud & DevOps          | `EXPLORING` |
 | 🏗️ System Design          | `DEEPENING` |
-| 🔬 Research / Experiments  | `ALWAYS ON` |
+| 🔬 Research & Experiments  | `ALWAYS ON` |
 
 ---
 
 # `03` · THE ARSENAL
 
-### Languages
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+</p>
+
+## Frontend & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
+</p>
+
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+## Cloud · DevOps · Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx" />
+</p>
+
+### AI Ecosystem
 
 ```text
-Python      ████████████████████
-Java        ███████████████░░░░░
-JavaScript  █████████████████░░░
-C++         █████████████░░░░░░░
-```
-
-### Engineering
-
-```text
-React · Node.js · Express · Next.js
-MongoDB · MySQL · PostgreSQL
-Git · GitHub · Docker · Linux · AWS
-```
-
-### Intelligence Layer
-
-```text
-TensorFlow
-Keras
-Scikit-Learn
 LLMs
 Generative AI
 Computer Vision
 Stable Diffusion
 LoRA
 OpenVINO
+TensorFlow
+Keras
+Scikit-Learn
 ```
 
 ---
 
 # `04` · PROJECTS ARE MY MOVES
 
-## ♛ COMICCRAFTER AI
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 ComicCrafter AI
+
+A generative AI system designed to create comics using language models and image generation.
 
 ```text
-TYPE       → Generative AI
-MISSION    → Create comics using AI
-FOCUS      → Local / Edge AI
-STACK      → LLM + Diffusion + LoRA + OpenVINO
+TYPE
+Generative AI
+
+FOCUS
+Local / Edge AI
+
+STACK
+LLM
+Stable Diffusion
+LoRA
+OpenVINO
 ```
 
-A generative AI system designed to combine **language models and image generation** into an end-to-end comic creation workflow.
+**The challenge:**
+Making AI generation practical even on resource-constrained hardware.
 
-The interesting part isn't simply generating an image.
+</td>
 
-**It's making intelligence run where resources are limited.**
+<td width="50%" valign="top">
 
----
+## 🌊 Groundwater Predictor
 
-## ♜ GROUNDWATER PREDICTOR
+A machine-learning system designed to predict groundwater levels using environmental and geographical data.
 
 ```text
-TYPE       → Machine Learning
-MISSION    → Predict groundwater levels
-MODEL      → LSTM
-STACK      → Python + TensorFlow + Data Science
+TYPE
+Machine Learning
+
+MODEL
+LSTM
+
+STACK
+Python
+TensorFlow
+Pandas
+Flask
 ```
 
-A predictive system using environmental and geographical data to model groundwater behaviour.
-
-**Data → Patterns → Prediction**
-
----
-
-## ♞ SMART TEACHER ATTENDANCE
+**The idea:**
 
 ```text
-TYPE       → Computer Vision / Automation
-MISSION    → Smarter attendance verification
-METHOD     → Selfie + QR
-STACK      → Backend + APIs + Database
+DATA
+ ↓
+PATTERNS
+ ↓
+MODEL
+ ↓
+PREDICTION
 ```
 
-A practical attendance system designed around classroom schedules and verification.
+</td>
 
-Because automation should solve **real problems**, not just demonstrate technology.
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📸 Smart Teacher Attendance
+
+A smart attendance platform using selfie verification and QR authentication.
+
+```text
+TYPE
+Automation
+
+METHOD
+Selfie + QR
+
+FOCUS
+Verification
+Scheduling
+Backend APIs
+```
+
+Designed around real classroom workflows rather than simply demonstrating technology.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧩 More Experiments
+
+I continuously experiment with:
+
+```text
+AI
+SaaS
+Automation
+Developer Tools
+APIs
+Cloud Systems
+Computer Vision
+Generative AI
+```
+
+<a href="https://github.com/msmahatha?tab=repositories">
+
+**→ Explore all repositories**
+
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -200,9 +309,13 @@ class Developer:
         self.experiments = []
 
     def build(self, idea):
+
         problem = understand(idea)
+
         architecture = design(problem)
+
         system = implement(architecture)
+
         result = test(system)
 
         if result.failed:
@@ -210,51 +323,71 @@ class Developer:
             return self.improve(system)
 
         self.projects.append(system)
+
         return system
 
     def improve(self, system):
+
         return self.build(system.problem)
 
     def evolve(self):
+
         while self.learning:
+
             self.experiment()
+
             self.learn()
+
             self.build()
 ```
 
 ---
 
-# `06` · MY DEVELOPMENT LOOP
+# `06` · THE DEVELOPMENT LOOP
 
 ```text
-                 ┌───────────────┐
-                 │    OBSERVE    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    QUESTION   │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    DESIGN     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     BUILD     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     BREAK     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    LEARN      │
-                 └───────┬───────┘
-                         │
-                         └──────────────→ REPEAT
+                    ┌───────────────┐
+                    │    OBSERVE    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    QUESTION   │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    DESIGN     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     BUILD     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     BREAK     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     FIX       │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     LEARN     │
+                    └───────┬───────┘
+                            │
+                            └──────────────┐
+                                           │
+                                           ▼
+                                        REPEAT
 ```
 
-**That's the real stack.**
+> **Good engineering isn't about avoiding failure.
+> It's about learning faster from it.**
 
 ---
 
@@ -264,12 +397,14 @@ class Developer:
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=msmahatha&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
-height="175"
+height="180"
+alt="GitHub Stats"
 />
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=msmahatha&theme=tokyonight&hide_border=true"
-height="175"
+height="180"
+alt="GitHub Streak"
 />
 
 </div>
@@ -279,30 +414,112 @@ height="175"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=msmahatha&theme=tokyo-night&hide_border=true&area=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msmahatha&theme=tokyonight"
 width="96%"
+alt="GitHub Profile Summary"
 />
 
 </div>
 
 ---
 
-# `08` · THE SIDE QUESTS
+# `08` · THE CONTRIBUTION BOARD
+
+<div align="center">
+
+## ♟️ THE BATTLEFIELD
+
+<sub>
+Every square represents a move.<br>
+Every contribution leaves a trace.
+</sub>
+
+<br><br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=msmahatha&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+width="96%"
+alt="Contribution Activity"
+/>
+
+</div>
+
+<br>
+
+## Contribution Calendar
+
+<div align="center">
+
+<img
+src="https://ghchart.rshah.org/40916c/msmahatha"
+alt="Madhusudan's GitHub contribution calendar"
+width="95%"
+/>
+
+</div>
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    CONTRIBUTION STATUS                       ║
+║                                                              ║
+║     CODE             ████████████████████                    ║
+║     BUILDS           ██████████████████                      ║
+║     EXPERIMENTS      ███████████████                         ║
+║     LEARNING         ████████████████████                    ║
+║                                                              ║
+║                  STATUS: ALWAYS BUILDING                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+### The board tells the story.
+
+`Commit` → `Experiment` → `Break` → `Fix` → `Learn` → `Ship`
+
+</div>
+
+---
+
+# `09` · CONTRIBUTION SNAKE
+
+<div align="center">
+
+### 🐍 WATCH THE CODE MOVE
+
+<img
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+> **Every green square is proof that something moved forward.**
+
+---
+
+# `10` · THE SIDE QUESTS
 
 Not everything worth learning happens inside an IDE.
 
 ```text
-♟️ CHESS
-   Strategy · Patience · Pattern Recognition
-
-📸 PHOTOGRAPHY
-   Perspective · Composition · Observation
-
-🎵 MUSIC
-   Creativity · Emotion · Storytelling
-
-💻 BUILDING
-   Curiosity · Experimentation · Execution
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  ♟️ CHESS                                         │
+│     Strategy · Patience · Pattern Recognition     │
+│                                                    │
+│  📸 PHOTOGRAPHY                                   │
+│     Perspective · Composition · Observation      │
+│                                                    │
+│  🎵 MUSIC                                         │
+│     Creativity · Emotion · Storytelling           │
+│                                                    │
+│  💻 BUILDING                                      │
+│     Curiosity · Experimentation · Execution      │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
 There is a common thread between all four:
@@ -313,59 +530,120 @@ There is a common thread between all four:
 
 ---
 
-# `09` · CURRENTLY LOADING...
+# `11` · CURRENTLY LOADING...
 
 ```text
-████████████████████████████████████████ 100%
+ARTIFICIAL INTELLIGENCE
 
-AI / ML                  [███████████████████░]
-Generative AI            [██████████████████░░]
-Full-Stack               [█████████████████░░░]
-Backend Architecture     [████████████████░░░░]
-Cloud / DevOps           [██████████████░░░░░░]
-System Design            [█████████████░░░░░░░]
+████████████████████████████████████████  100%
+
+
+MACHINE LEARNING
+
+██████████████████████████████████████░░   95%
+
+
+GENERATIVE AI
+
+████████████████████████████████████░░░░   90%
+
+
+FULL-STACK DEVELOPMENT
+
+███████████████████████████████████░░░░░   88%
+
+
+BACKEND ENGINEERING
+
+████████████████████████████████░░░░░░░░   82%
+
+
+CLOUD / DEVOPS
+
+████████████████████████████░░░░░░░░░░░   72%
+
+
+SYSTEM DESIGN
+
+██████████████████████████░░░░░░░░░░░░░   68%
 ```
 
-**Progress is never finished.**
+**The percentages aren't skill scores.**
+
+They're a reminder:
+
+> **There is always another level.**
 
 ---
 
-# `10` · THE ENDGAME
+# `12` · BEYOND CODE
+
+<div align="center">
+
+### ♟️ CHESS
+
+**Strategy · Patience · Pattern Recognition**
+
+### 📸 PHOTOGRAPHY
+
+**Perspective · Composition · Observation**
+
+### 🎵 MUSIC
+
+**Creativity · Emotion · Storytelling**
+
+</div>
+
+---
+
+# `13` · THE ENDGAME
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                  I AM NOT CHASING TITLES.                   │
-│                                                             │
-│                  I AM CHASING BETTER MOVES.                 │
-│                                                             │
-│          Better questions.                                 │
-│          Better architecture.                              │
-│          Better software.                                  │
-│          Better systems.                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  I AM NOT CHASING TITLES.                    ║
+║                                                              ║
+║                  I AM CHASING BETTER MOVES.                  ║
+║                                                              ║
+║                                                              ║
+║              Better questions.                              ║
+║              Better architecture.                           ║
+║              Better software.                               ║
+║              Better systems.                                ║
+║              Better decisions.                              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
 <div align="center">
 
-### ♟️ THINK DIFFERENT. BUILD DIFFERENT.
+# ♟️ THINK DIFFERENT. BUILD DIFFERENT.
 
 <br>
 
 <a href="https://github.com/msmahatha?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white"
+alt="Explore Repositories"
+/>
+
 </a>
 
 <a href="https://linkedin.com/in/msmahatha">
-<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="Connect on LinkedIn"
+/>
+
 </a>
 
 <br><br>
 
-`01 OPENING` · `02 BOARD` · `03 ARSENAL` · `04 MOVES` · `05 ENGINE` · `06 LOOP` · `07 TELEMETRY` · `08 SIDE QUESTS` · `09 LOADING` · `10 ENDGAME`
+`OPENING` · `BOARD` · `ARSENAL` · `MOVES` · `ENGINE` · `TELEMETRY` · `CONTRIBUTIONS` · `ENDGAME`
 
 <br><br>
 
@@ -374,3 +652,4 @@ Built by Madhusudan Mahatha · Powered by curiosity
 </sub>
 
 </div>
+
