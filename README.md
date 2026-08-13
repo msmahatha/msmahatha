@@ -1,257 +1,370 @@
-<!-- ========================= HERO ========================= -->
+<!-- ========================================================= -->
+
+<!--                       HERO SECTION                        -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="Madhusudan Mahatha.png" alt="Madhusudan Mahatha" width="100%" />
+  <img src="Madhusudan Mahatha.png" width="100%" alt="Madhusudan Mahatha" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Madhusudan Mahatha</h1>
+<br>
+
+<h1 align="center">Madhusudan Mahatha</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · AI/ML Enthusiast · Problem Solver</strong>
+  <strong>Full-Stack Developer · AI/ML Engineer · Builder</strong>
 </p>
 
 <p align="center">
-  I build practical software, intelligent systems, and scalable digital products.
+  <em>Turning ideas into intelligent software, one system at a time.</em>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/msmahatha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:madhusudanmahatha14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://github.com/msmahatha">
+    <img src="https://img.shields.io/badge/GitHub-msmahatha-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://twitter.com/msmahatha">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/msmahatha">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-<!-- ========================= ABOUT ========================= -->
+<!-- ========================================================= -->
 
-## 👨‍💻 About Me
+<!--                       INTRODUCTION                        -->
 
-I'm a developer from **India** passionate about building technology that solves real-world problems.
+<!-- ========================================================= -->
 
-My interests sit at the intersection of **software engineering, artificial intelligence, automation, and product development**.
+## Hello, I'm Madhusudan.
 
-```python
-class Madhusudan:
-    role = "Full-Stack Developer"
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software Engineering",
-        "Automation",
-        "System Design"
-    ]
+I'm a developer who enjoys working where **software engineering meets artificial intelligence**.
 
-    hobbies = [
-        "♟️ Chess",
-        "📸 Photography",
-        "🎵 Music",
-        "💻 Building Things"
-    ]
+I like taking an idea from a rough concept → architecture → code → deployment → something people can actually use.
 
-    philosophy = "Think deeply. Build simply. Improve continuously."
-```
+My work spans:
 
-### 🚀 What I Do
+* **AI / Machine Learning**
+* **Full-Stack Development**
+* **Backend Engineering**
+* **Automation & APIs**
+* **Cloud & DevOps**
+* **System Design**
+* **Developer Tools & Experiments**
 
-* 🧠 Build **AI & Machine Learning applications**
-* 🌐 Develop **full-stack web applications**
-* ⚙️ Design **automation and backend systems**
-* ☁️ Work with **cloud, DevOps & deployment**
-* 📊 Build **data-driven applications**
-* 🔬 Explore emerging technologies and developer tools
-* 💡 Turn ideas into usable digital products
+> I don't just want to write code.
+> **I want to build systems that solve problems.**
 
 ---
 
-<!-- ========================= TECH STACK ========================= -->
+<!-- ========================================================= -->
 
-## 🛠️ Technology Stack
+<!--                       CURRENT FOCUS                        -->
+
+<!-- ========================================================= -->
+
+## ⚡ Current Focus
+
+```text
+AI & Machine Learning
+        ↓
+Intelligent Applications
+        ↓
+Scalable Backend Systems
+        ↓
+Automation & Infrastructure
+        ↓
+Products people can actually use
+```
+
+Currently exploring deeper into:
+
+**Generative AI · LLMs · Computer Vision · Machine Learning · System Design · Cloud Infrastructure**
+
+---
+
+<!-- ========================================================= -->
+
+<!--                        TECH STACK                         -->
+
+<!-- ========================================================= -->
+
+## 🧰 Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
 </p>
 
 ### Frontend & Backend
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
 </p>
 
-### AI / Machine Learning
+### AI / ML
 
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### DevOps & Cloud
+### Cloud, DevOps & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx" />
 </p>
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
+<!-- ========================================================= -->
 
-## 🚀 Featured Projects
+<!--                     SELECTED WORK                         -->
+
+<!-- ========================================================= -->
+
+## 🚀 Selected Work
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 ComicCrafter AI
 
-An AI-powered comic generation system combining **LLMs, image generation, and optimization techniques** to create comics locally on resource-constrained devices.
+An AI-powered comic generation system combining language models and image generation.
 
-**Focus:** Generative AI · LLMs · Stable Diffusion · LoRA · OpenVINO
+**Built with**
+
+`Python` `LLMs` `Stable Diffusion` `LoRA` `OpenVINO`
+
+</td>
+
+<td width="50%">
+
+### 🌊 Groundwater Predictor
+
+A machine-learning system for predicting groundwater levels using environmental and geographical data.
+
+**Built with**
+
+`Python` `TensorFlow` `LSTM` `Pandas` `Flask`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📸 Smart Attendance
+
+A teacher attendance platform using selfie verification and QR authentication.
+
+**Built with**
+
+`Computer Vision` `Python` `APIs` `MySQL`
+
+</td>
+
+<td width="50%">
+
+### 🧩 More Projects
+
+I continuously experiment with AI tools, SaaS platforms, automation systems, developer utilities and real-world software products.
+
+**Explore →**
+
+<a href="https://github.com/msmahatha?tab=repositories">View all repositories</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌊 Groundwater Level Predictor
+<!-- ========================================================= -->
 
-A machine-learning system designed to predict groundwater levels using environmental and geographical data.
+<!--                       ENGINEERING                          -->
 
-**Focus:** LSTM · Time Series · TensorFlow · Python · Data Science
+<!-- ========================================================= -->
 
----
+## 🏗️ How I Think About Engineering
 
-### 📸 Teacher Attendance System
-
-A smart attendance platform using **selfie verification and QR-based authentication** designed around classroom schedules.
-
-**Focus:** Computer Vision · Automation · Authentication · Backend Systems
-
----
-
-## 📌 What I'm Currently Exploring
+I care about more than making something work.
 
 ```text
-Artificial Intelligence     ███████████████████░  95%
-Machine Learning            ██████████████████░░  90%
-Full-Stack Development      █████████████████░░░  85%
-Backend Engineering         ████████████████░░░░  80%
-DevOps & Cloud              ██████████████░░░░░░  70%
-System Design               █████████████░░░░░░░  65%
+                    ┌───────────────┐
+                    │   PROBLEM     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │   ARCHITECT   │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     BUILD     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     TEST      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    DEPLOY     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    IMPROVE    │
+                    └───────────────┘
 ```
 
-> Always learning. Always building. Always experimenting.
+**Good software should be:**
+
+`Simple` · `Reliable` · `Scalable` · `Maintainable` · `Useful`
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+<!-- ========================================================= -->
 
-## 📊 GitHub Analytics
+<!--                     GITHUB ANALYTICS                      -->
+
+<!-- ========================================================= -->
+
+## 📊 GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=msmahatha&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=msmahatha&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
+    height="180"
   />
-
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=msmahatha&theme=tokyonight&hide_border=true"
- height="170"
-/>
-
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=msmahatha&theme=tokyo-night&hide_border=true"
-    width="95%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=msmahatha&theme=tokyonight&hide_border=true"
+    height="180"
   />
-</p>
-
----
-
-<!-- ========================= CONTRIBUTION ========================= -->
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-<!-- ========================= PHILOSOPHY ========================= -->
-
-## ♟️ Code Is Like Chess
-
-> **Think before you move.**
->
-> Every line of code is a decision.
-> Every bug is a lesson.
-> Every project is another game to solve.
-
-```python
-def build():
-    plan()
-    code()
-    test()
-    debug()
-    improve()
-    repeat()
-
-while True:
-    build()
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILD-LEARN-IMPROVE-7C3AED?style=for-the-badge" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-If you're interested in **AI, software engineering, startups, technology, or building something meaningful**, feel free to connect.
-
-<p align="center">
-  <a href="https://linkedin.com/in/msmahatha">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:madhusudanmahatha14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <i>"Build things that make people say — this is actually useful."</i>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=msmahatha&theme=tokyo-night&hide_border=true&area=true"
+    width="96%"
+  />
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    CONTRIBUTION                           -->
+
+<!-- ========================================================= -->
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake"
+  />
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                         BEYOND CODE                        -->
+
+<!-- ========================================================= -->
+
+## ♟️ Beyond Code
+
+When I'm not building software, you'll probably find me:
+
+**♟️ Playing Chess**
+Strategy, patience and thinking several moves ahead.
+
+**📸 Photography**
+Especially landscapes and moments that tell a story.
+
+**🎵 Writing & Music**
+Exploring ideas through lyrics, melodies and storytelling.
+
+There's probably a reason I like chess.
+
+> **Programming and chess both reward the same thing: thinking before making your next move.**
+
+---
+
+<!-- ========================================================= -->
+
+<!--                        PHILOSOPHY                         -->
+
+<!-- ========================================================= -->
+
+## 💭 A Few Principles I Follow
+
+> **Build before you overthink.**
+
+> **Understand the problem before choosing the technology.**
+
+> **Make it work. Make it right. Then make it better.**
+
+> **Never stop learning.**
+
+---
+
+<!-- ========================================================= -->
+
+<!--                          CONNECT                           -->
+
+<!-- ========================================================= -->
+
+## Let's Build Something.
+
+I'm always interested in:
+
+`AI` · `Startups` · `Software` · `Open Source` · `Interesting Problems`
+
+If you're building something interesting, let's connect.
+
+<p align="center">
+
+<a href="https://linkedin.com/in/msmahatha">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:madhusudanmahatha14@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/msmahatha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Think. Build. Break. Learn. Repeat.</strong>
 </p>
 
 <p align="center">
-  <sub>© Madhusudan Mahatha · Built with curiosity & code</sub>
+  <sub>© Madhusudan Mahatha</sub>
 </p>
-
