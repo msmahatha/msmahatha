@@ -1,370 +1,376 @@
-<!-- ========================================================= -->
+<!-- ============================================================ -->
 
-<!--                       HERO SECTION                        -->
+<!--                    MADHUSUDAN MAHATHA                        -->
 
-<!-- ========================================================= -->
+<!--              CHESS ENGINE DEVELOPER PROFILE                   -->
 
-<p align="center">
-  <img src="Madhusudan Mahatha.png" width="100%" alt="Madhusudan Mahatha" />
-</p>
+<!-- ============================================================ -->
 
-<br>
+<div align="center">
 
-<h1 align="center">Madhusudan Mahatha</h1>
+<img src="Madhusudan Mahatha.png" width="100%" alt="Madhusudan Mahatha"/>
 
-<p align="center">
-  <strong>Full-Stack Developer · AI/ML Engineer · Builder</strong>
-</p>
+<br><br>
 
-<p align="center">
-  <em>Turning ideas into intelligent software, one system at a time.</em>
-</p>
+# ♟️ MADHUSUDAN MAHATHA
 
-<p align="center">
-  <a href="https://linkedin.com/in/msmahatha">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:madhusudanmahatha14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/msmahatha">
-    <img src="https://img.shields.io/badge/GitHub-msmahatha-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/msmahatha">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-</p>
+### `FULL-STACK DEVELOPER × AI/ML BUILDER`
 
 <br>
 
-<!-- ========================================================= -->
+**I don't just write code.
+I think in systems.**
 
-<!--                       INTRODUCTION                        -->
+<br>
 
-<!-- ========================================================= -->
+<img src="https://img.shields.io/badge/STATUS-BUILDING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-ALWAYS%20LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-111111?style=for-the-badge"/>
 
-## Hello, I'm Madhusudan.
-
-I'm a developer who enjoys working where **software engineering meets artificial intelligence**.
-
-I like taking an idea from a rough concept → architecture → code → deployment → something people can actually use.
-
-My work spans:
-
-* **AI / Machine Learning**
-* **Full-Stack Development**
-* **Backend Engineering**
-* **Automation & APIs**
-* **Cloud & DevOps**
-* **System Design**
-* **Developer Tools & Experiments**
-
-> I don't just want to write code.
-> **I want to build systems that solve problems.**
+</div>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                       CURRENT FOCUS                        -->
-
-<!-- ========================================================= -->
-
-## ⚡ Current Focus
+# `01` · THE OPENING
 
 ```text
-AI & Machine Learning
-        ↓
-Intelligent Applications
-        ↓
-Scalable Backend Systems
-        ↓
-Automation & Infrastructure
-        ↓
-Products people can actually use
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Every project starts with a position.                      ║
+║                                                              ║
+║   Every problem has a pattern.                               ║
+║                                                              ║
+║   Every solution begins with the first move.                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-Currently exploring deeper into:
+I'm **Madhusudan Mahatha**, a developer fascinated by the intersection of:
 
-**Generative AI · LLMs · Computer Vision · Machine Learning · System Design · Cloud Infrastructure**
+```text
+SOFTWARE
+   +
+ARTIFICIAL INTELLIGENCE
+   +
+SYSTEMS
+   +
+AUTOMATION
+   +
+PRODUCTS
+```
+
+I enjoy taking ideas from **zero → architecture → implementation → deployment**.
+
+My goal isn't to collect technologies.
+
+**My goal is to become better at solving difficult problems.**
 
 ---
 
-<!-- ========================================================= -->
+# `02` · THE BOARD
 
-<!--                        TECH STACK                         -->
+```text
+                 ┌──────────────────────────┐
+                 │        MY BOARD          │
+                 └──────────────────────────┘
 
-<!-- ========================================================= -->
+                         ♟  AI / ML
+                              │
+                              │
+              ♜ Backend ──────┼────── Frontend ♞
+                              │
+                              │
+                       ♝ SYSTEM DESIGN
+                              │
+                              │
+                         ♛ AUTOMATION
+                              │
+                              │
+                         ♚ PRODUCTS
+```
 
-## 🧰 Tech Stack
+### Current Position
+
+| Area                       | Position    |
+| -------------------------- | ----------- |
+| 🤖 Artificial Intelligence | `ACTIVE`    |
+| 🧠 Machine Learning        | `ACTIVE`    |
+| 🌐 Full-Stack Development  | `ACTIVE`    |
+| ⚙️ Backend Engineering     | `ACTIVE`    |
+| ☁️ Cloud / DevOps          | `EXPLORING` |
+| 🏗️ System Design          | `DEEPENING` |
+| 🔬 Research / Experiments  | `ALWAYS ON` |
+
+---
+
+# `03` · THE ARSENAL
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
-</p>
-
-### Frontend & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx" />
-</p>
-
----
-
-<!-- ========================================================= -->
-
-<!--                     SELECTED WORK                         -->
-
-<!-- ========================================================= -->
-
-## 🚀 Selected Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 ComicCrafter AI
-
-An AI-powered comic generation system combining language models and image generation.
-
-**Built with**
-
-`Python` `LLMs` `Stable Diffusion` `LoRA` `OpenVINO`
-
-</td>
-
-<td width="50%">
-
-### 🌊 Groundwater Predictor
-
-A machine-learning system for predicting groundwater levels using environmental and geographical data.
-
-**Built with**
-
-`Python` `TensorFlow` `LSTM` `Pandas` `Flask`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📸 Smart Attendance
-
-A teacher attendance platform using selfie verification and QR authentication.
-
-**Built with**
-
-`Computer Vision` `Python` `APIs` `MySQL`
-
-</td>
-
-<td width="50%">
-
-### 🧩 More Projects
-
-I continuously experiment with AI tools, SaaS platforms, automation systems, developer utilities and real-world software products.
-
-**Explore →**
-
-<a href="https://github.com/msmahatha?tab=repositories">View all repositories</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ========================================================= -->
-
-<!--                       ENGINEERING                          -->
-
-<!-- ========================================================= -->
-
-## 🏗️ How I Think About Engineering
-
-I care about more than making something work.
-
 ```text
-                    ┌───────────────┐
-                    │   PROBLEM     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │   ARCHITECT   │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     BUILD     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     TEST      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    DEPLOY     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    IMPROVE    │
-                    └───────────────┘
+Python      ████████████████████
+Java        ███████████████░░░░░
+JavaScript  █████████████████░░░
+C++         █████████████░░░░░░░
 ```
 
-**Good software should be:**
+### Engineering
 
-`Simple` · `Reliable` · `Scalable` · `Maintainable` · `Useful`
+```text
+React · Node.js · Express · Next.js
+MongoDB · MySQL · PostgreSQL
+Git · GitHub · Docker · Linux · AWS
+```
+
+### Intelligence Layer
+
+```text
+TensorFlow
+Keras
+Scikit-Learn
+LLMs
+Generative AI
+Computer Vision
+Stable Diffusion
+LoRA
+OpenVINO
+```
 
 ---
 
-<!-- ========================================================= -->
+# `04` · PROJECTS ARE MY MOVES
 
-<!--                     GITHUB ANALYTICS                      -->
+## ♛ COMICCRAFTER AI
 
-<!-- ========================================================= -->
+```text
+TYPE       → Generative AI
+MISSION    → Create comics using AI
+FOCUS      → Local / Edge AI
+STACK      → LLM + Diffusion + LoRA + OpenVINO
+```
 
-## 📊 GitHub
+A generative AI system designed to combine **language models and image generation** into an end-to-end comic creation workflow.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=msmahatha&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=msmahatha&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+The interesting part isn't simply generating an image.
+
+**It's making intelligence run where resources are limited.**
+
+---
+
+## ♜ GROUNDWATER PREDICTOR
+
+```text
+TYPE       → Machine Learning
+MISSION    → Predict groundwater levels
+MODEL      → LSTM
+STACK      → Python + TensorFlow + Data Science
+```
+
+A predictive system using environmental and geographical data to model groundwater behaviour.
+
+**Data → Patterns → Prediction**
+
+---
+
+## ♞ SMART TEACHER ATTENDANCE
+
+```text
+TYPE       → Computer Vision / Automation
+MISSION    → Smarter attendance verification
+METHOD     → Selfie + QR
+STACK      → Backend + APIs + Database
+```
+
+A practical attendance system designed around classroom schedules and verification.
+
+Because automation should solve **real problems**, not just demonstrate technology.
+
+---
+
+# `05` · THE ENGINE
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.curiosity = "∞"
+        self.learning = True
+        self.projects = []
+        self.failures = []
+        self.experiments = []
+
+    def build(self, idea):
+        problem = understand(idea)
+        architecture = design(problem)
+        system = implement(architecture)
+        result = test(system)
+
+        if result.failed:
+            self.failures.append(result)
+            return self.improve(system)
+
+        self.projects.append(system)
+        return system
+
+    def improve(self, system):
+        return self.build(system.problem)
+
+    def evolve(self):
+        while self.learning:
+            self.experiment()
+            self.learn()
+            self.build()
+```
+
+---
+
+# `06` · MY DEVELOPMENT LOOP
+
+```text
+                 ┌───────────────┐
+                 │    OBSERVE    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    QUESTION   │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    DESIGN     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BUILD     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BREAK     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    LEARN      │
+                 └───────┬───────┘
+                         │
+                         └──────────────→ REPEAT
+```
+
+**That's the real stack.**
+
+---
+
+# `07` · GITHUB TELEMETRY
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=msmahatha&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
+height="175"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=msmahatha&theme=tokyonight&hide_border=true"
+height="175"
+/>
+
+</div>
 
 <br>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=msmahatha&theme=tokyo-night&hide_border=true&area=true"
-    width="96%"
-  />
-</p>
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=msmahatha&theme=tokyo-night&hide_border=true&area=true"
+width="96%"
+/>
+
+</div>
 
 ---
 
-<!-- ========================================================= -->
+# `08` · THE SIDE QUESTS
 
-<!--                    CONTRIBUTION                           -->
+Not everything worth learning happens inside an IDE.
 
-<!-- ========================================================= -->
+```text
+♟️ CHESS
+   Strategy · Patience · Pattern Recognition
 
-## 🐍 Contribution Graph
+📸 PHOTOGRAPHY
+   Perspective · Composition · Observation
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake"
-  />
-</p>
+🎵 MUSIC
+   Creativity · Emotion · Storytelling
 
----
+💻 BUILDING
+   Curiosity · Experimentation · Execution
+```
 
-<!-- ========================================================= -->
+There is a common thread between all four:
 
-<!--                         BEYOND CODE                        -->
-
-<!-- ========================================================= -->
-
-## ♟️ Beyond Code
-
-When I'm not building software, you'll probably find me:
-
-**♟️ Playing Chess**
-Strategy, patience and thinking several moves ahead.
-
-**📸 Photography**
-Especially landscapes and moments that tell a story.
-
-**🎵 Writing & Music**
-Exploring ideas through lyrics, melodies and storytelling.
-
-There's probably a reason I like chess.
-
-> **Programming and chess both reward the same thing: thinking before making your next move.**
+> **Observe the position.
+> Understand the pattern.
+> Make the move.**
 
 ---
 
-<!-- ========================================================= -->
+# `09` · CURRENTLY LOADING...
 
-<!--                        PHILOSOPHY                         -->
+```text
+████████████████████████████████████████ 100%
 
-<!-- ========================================================= -->
+AI / ML                  [███████████████████░]
+Generative AI            [██████████████████░░]
+Full-Stack               [█████████████████░░░]
+Backend Architecture     [████████████████░░░░]
+Cloud / DevOps           [██████████████░░░░░░]
+System Design            [█████████████░░░░░░░]
+```
 
-## 💭 A Few Principles I Follow
-
-> **Build before you overthink.**
-
-> **Understand the problem before choosing the technology.**
-
-> **Make it work. Make it right. Then make it better.**
-
-> **Never stop learning.**
+**Progress is never finished.**
 
 ---
 
-<!-- ========================================================= -->
+# `10` · THE ENDGAME
 
-<!--                          CONNECT                           -->
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                  I AM NOT CHASING TITLES.                   │
+│                                                             │
+│                  I AM CHASING BETTER MOVES.                 │
+│                                                             │
+│          Better questions.                                 │
+│          Better architecture.                              │
+│          Better software.                                  │
+│          Better systems.                                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<!-- ========================================================= -->
+<br>
 
-## Let's Build Something.
+<div align="center">
 
-I'm always interested in:
+### ♟️ THINK DIFFERENT. BUILD DIFFERENT.
 
-`AI` · `Startups` · `Software` · `Open Source` · `Interesting Problems`
+<br>
 
-If you're building something interesting, let's connect.
-
-<p align="center">
+<a href="https://github.com/msmahatha?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/msmahatha">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:madhusudanmahatha14@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br><br>
 
-<a href="https://github.com/msmahatha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+`01 OPENING` · `02 BOARD` · `03 ARSENAL` · `04 MOVES` · `05 ENGINE` · `06 LOOP` · `07 TELEMETRY` · `08 SIDE QUESTS` · `09 LOADING` · `10 ENDGAME`
 
-</p>
+<br><br>
 
-<br>
+<sub>
+Built by Madhusudan Mahatha · Powered by curiosity
+</sub>
 
-<p align="center">
-  <strong>Think. Build. Break. Learn. Repeat.</strong>
-</p>
-
-<p align="center">
-  <sub>© Madhusudan Mahatha</sub>
-</p>
+</div>
